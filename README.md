@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-###I am default student of Kiyv Polytechnical Institute in Ukraine
+### I am default student of Kiyv Polytechnical Institute in Ukraine
 
 - 🔭 I’m currently working on building new site
 - 🌱 I’m currently learning JavaScript, PHP, React framework
